@@ -102,9 +102,15 @@ https://www.gnu.org/licenses/gpl-3.0.html
 
 Product info:
 EULA DATE:022025031323
+
 PRODUCT ID:chema-xp-2003-sv-dat-x64-r2-sp2
-PD:R4QKG-XMK42-32MVV-3Y82H-369VW
+
+PK:R4QKG-XMK42-32MVV-3Y82H-369VW
+
 WEBSITE:https://github.com/qasfzcew/Chema-s-2003
+
 ALTERNATIVE WEBSITE:https://archive.org/details/@chema2003
+
 ISO BUILD NUMBER:inf-1410-02202503-unstable-x64
+
 This product was made with nLite, nLite website:https://nliteos.com
