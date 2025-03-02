@@ -130,10 +130,9 @@ using these type of software beacuse if the installation fails of
 there is an faulty exe there em could be system unstabilities,errors
 BSODs.
 
-g) the use of this iso to create forks of it should be upgrades and
+g) The use of this iso to create forks of it should be upgrades and
 not to benefit yourself, any kind of malware injection to the project
 will not be tolerated and maybe there could be a URL takedown.
-
 
 =======================================================================
 
