@@ -5,6 +5,7 @@ CHEMA´S SERVER 2003 DATACENTER X64
 EDITION RELEASE 2 (R2) WITH MICROSOFT 
 WINDOWS SERVER 2003 SERVICE PACK 2
 **************************************
+¡Thank you for choosing chema´s xp!
 
 °IMPORTANT USAGE NOTICE°
 CHEMA´S SERVER 2003 X64 EDITION IS A
@@ -160,4 +161,4 @@ https://www.copyright.gov
 
 ========================================================================
 
-LICENSE TERMS DATE:022025031556
+LICENSE TERMS DATE:022025031912
